@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Guilhem\\source\\repos\\AiryaSeraph\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14F19E22-39B7-4B8D-81D3-78F2E97FECE0}|AiryaSeraph\\AiryaSeraph.csproj|C:\\Users\\Guilhem\\source\\repos\\AiryaSeraph\\airyaseraph\\comps\\comptemperaturedependentstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F19E22-39B7-4B8D-81D3-78F2E97FECE0}|AiryaSeraph\\AiryaSeraph.csproj|solutionrelative:airyaseraph\\comps\\comptemperaturedependentstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F19E22-39B7-4B8D-81D3-78F2E97FECE0}|AiryaSeraph\\AiryaSeraph.csproj|c:\\users\\guilhem\\source\\repos\\airyaseraph\\airyaseraph\\harmonypatches\\harmonypatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F19E22-39B7-4B8D-81D3-78F2E97FECE0}|AiryaSeraph\\AiryaSeraph.csproj|solutionrelative:airyaseraph\\harmonypatches\\harmonypatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F19E22-39B7-4B8D-81D3-78F2E97FECE0}|AiryaSeraph\\AiryaSeraph.csproj|c:\\users\\guilhem\\source\\repos\\airyaseraph\\airyaseraph\\frostbiteutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F19E22-39B7-4B8D-81D3-78F2E97FECE0}|AiryaSeraph\\AiryaSeraph.csproj|solutionrelative:airyaseraph\\frostbiteutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F19E22-39B7-4B8D-81D3-78F2E97FECE0}|AiryaSeraph\\AiryaSeraph.csproj|c:\\users\\guilhem\\source\\repos\\airyaseraph\\airyaseraph\\comps\\comptemperaturemeltingregen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14F19E22-39B7-4B8D-81D3-78F2E97FECE0}|AiryaSeraph\\AiryaSeraph.csproj|solutionrelative:airyaseraph\\comps\\comptemperaturemeltingregen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompTemperatureMeltingRegen.cs",
+              "DocumentMoniker": "C:\\Users\\Guilhem\\source\\repos\\AiryaSeraph\\AiryaSeraph\\Comps\\CompTemperatureMeltingRegen.cs",
+              "RelativeDocumentMoniker": "AiryaSeraph\\Comps\\CompTemperatureMeltingRegen.cs",
+              "ToolTip": "C:\\Users\\Guilhem\\source\\repos\\AiryaSeraph\\AiryaSeraph\\Comps\\CompTemperatureMeltingRegen.cs",
+              "RelativeToolTip": "AiryaSeraph\\Comps\\CompTemperatureMeltingRegen.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAiwDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T12:29:54.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrostBiteUtils.cs",
+              "DocumentMoniker": "C:\\Users\\Guilhem\\source\\repos\\AiryaSeraph\\AiryaSeraph\\FrostBiteUtils.cs",
+              "RelativeDocumentMoniker": "AiryaSeraph\\FrostBiteUtils.cs",
+              "ToolTip": "C:\\Users\\Guilhem\\source\\repos\\AiryaSeraph\\AiryaSeraph\\FrostBiteUtils.cs",
+              "RelativeToolTip": "AiryaSeraph\\FrostBiteUtils.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:48:40.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HarmonyPatches.cs",
+              "DocumentMoniker": "C:\\Users\\Guilhem\\source\\repos\\AiryaSeraph\\AiryaSeraph\\HarmonyPatches\\HarmonyPatches.cs",
+              "RelativeDocumentMoniker": "AiryaSeraph\\HarmonyPatches\\HarmonyPatches.cs",
+              "ToolTip": "C:\\Users\\Guilhem\\source\\repos\\AiryaSeraph\\AiryaSeraph\\HarmonyPatches\\HarmonyPatches.cs",
+              "RelativeToolTip": "AiryaSeraph\\HarmonyPatches\\HarmonyPatches.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAkwKkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T23:45:26.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompTemperatureDependentStats.cs",
+              "DocumentMoniker": "C:\\Users\\Guilhem\\source\\repos\\AiryaSeraph\\AiryaSeraph\\Comps\\CompTemperatureDependentStats.cs",
+              "RelativeDocumentMoniker": "AiryaSeraph\\Comps\\CompTemperatureDependentStats.cs",
+              "ToolTip": "C:\\Users\\Guilhem\\source\\repos\\AiryaSeraph\\AiryaSeraph\\Comps\\CompTemperatureDependentStats.cs",
+              "RelativeToolTip": "AiryaSeraph\\Comps\\CompTemperatureDependentStats.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAwMsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:16:44.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
