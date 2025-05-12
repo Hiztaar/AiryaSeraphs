@@ -4,7 +4,10 @@
 		{
 			"type": "dotnet",
 			"task": "build",
-			"group": "build",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
 			"problemMatcher": [],
 			"label": "dotnet: build"
 		}
